@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Michael j Kinkade ]]></title>
         <description><![CDATA[Michael j Kinkade ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-j-kinkade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 06:34:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 06:38:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-j-kinkade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here is a picture of Watson lake in Prescott AZ. ]]></title>
+            <description><![CDATA[<article><h1>Here is a picture of Watson lake in Prescott AZ. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ad77988-156a-4539-b6ff-812a46df048b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/michael-j-kinkade/here-is-a-picture-of-watson-lake-in-prescott-az/index.html</link>
+            <guid isPermaLink="false">f66faf2e-e71a-4e33-ac55-fa2cf615dfc8</guid>
+            <pubDate>Sat, 26 Dec 2015 06:38:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About me ]]></title>
-            <description><![CDATA[<article><h1>About me </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f57c9d0-508c-4f4f-acc9-38485d007832.jpg"></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <description><![CDATA[<article><h1>About me </h1><p>My name is Mike and I take photos.  I would like to share my photos with you.  I hope you like them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74d16fad71328ad5f3f76df447ab5f364496c0d4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/michael-j-kinkade/about-me/index.html</link>
             <guid isPermaLink="false">263af4eb-5d41-4326-93d4-a160187e217c</guid>
             <pubDate>Sat, 26 Dec 2015 06:34:42 GMT</pubDate>
         </item>
