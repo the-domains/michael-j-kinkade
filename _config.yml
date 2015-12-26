@@ -1,0 +1,14 @@
+layout_spectrum: 0.9403866
+color:
+  saturation: 0.6288937
+  brandStrength: 0.4645543
+  lightness: 0.7932331
+  brandColors:
+    - '#030303'
+    - '#FFC67F'
+    - '#997878'
+    - '#5C4B43'
+    - '#FFF3E0'
+  rhythmicContrast: 0.4935553
+typography_spectrum: 0.7975295
+name: 'Michael j Kinkade '
