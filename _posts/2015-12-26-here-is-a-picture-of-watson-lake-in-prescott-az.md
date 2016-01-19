@@ -6,20 +6,20 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-26T17:45:50.275Z'
-dateModified: '2015-12-26T17:45:43.709Z'
+datePublished: '2016-01-19T20:50:59.474Z'
+dateModified: '2016-01-19T20:50:56.634Z'
 title: "Here is a picture of Watson lake in Prescott AZ.\_"
 author: []
+sourcePath: _posts/2015-12-26-here-is-a-picture-of-watson-lake-in-prescott-az.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-here-is-a-picture-of-watson-lake-in-prescott-az.md
-published: true
 url: here-is-a-picture-of-watson-lake-in-prescott-az/index.html
 _type: Article
 
 ---
-# Here is a picture of Watson lake in Prescott AZ. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ad77988-156a-4539-b6ff-812a46df048b.jpg)
+# Here is a picture of Watson lake in Prescott AZ. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/caef7eeab0e5728f3cba3a6d92a26a4c31b297a6.jpg)
